@@ -9,11 +9,20 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+AND gate is connected to input a, b, 
+AND gate is connected to input c, d, 
+AND gate is connected to input e,f.
+
+The ouput of the AND gates when both are on, spell out the letter of my name "L"
 
 ## How to test
 
-Explain how to use your project
+| input a and b  | ouput AND | input c and d  | ouput AND | input e and f  | ouput AND |
+|----------------|-----------|----------------|-----------|----------------|-----------|
+| 0 0            | 0         | 0 0            | 0         | 0 0            | 0         |
+| 0 1            | 0         | 0 1            | 0         | 0 1            | 0         |
+| 1 0            | 0         | 1 0            | 0         | 1 0            | 0         |
+| 1 1            | 1         | 1 1            | 1         | 1 1            | 1         |
 
 ## External hardware
 
