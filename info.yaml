@@ -16,14 +16,14 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "input number a"
+  ui[0]: "input number a MSB"
   ui[1]: "input number a"
   ui[2]: "input number a"
-  ui[3]: "input number a"
-  ui[4]: "input number b"
+  ui[3]: "input number a LSB"
+  ui[4]: "input number b MSB"
   ui[5]: "input number b"
   ui[6]: "input number b"
-  ui[7]: "input number b"
+  ui[7]: "input number b LSB"
 
   # Outputs
   uo[0]: "ouptut display"
